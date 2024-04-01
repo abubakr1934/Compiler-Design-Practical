@@ -50,3 +50,4 @@ if __name__ == "__main__":
     code = generator.generate_code(condition, true_statements, false_statements)
     for line in code:
         print(line)
+

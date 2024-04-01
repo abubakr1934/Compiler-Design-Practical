@@ -1,0 +1,9 @@
+//gsvsgsv
+int main(){
+    //wgsbewr
+    int a = 6;
+    int b = 7;
+    print("%d", a);
+    print("%d", a+b); 
+    return 0;
+}

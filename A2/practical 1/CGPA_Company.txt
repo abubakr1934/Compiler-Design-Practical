@@ -1,0 +1,10 @@
+Abc Infosys Female 9.4 CSE 612333 abc@rknec.edu 9000000000
+Def Infosys Male 8.5 IT 558923 def@rknec.edu 8827291892
+Ghi Wipro Female 9.0 EC 700000 ghi@rknec.edu 7152083912
+Jkl Accenture Male 8.2 CSE 500000 jkl@rknec.edu 618957289
+Mno Informatica Female 9.8 IT 827196 mno@rknec.edu 5972071564
+Pqr TCS Male 8.9 EC 650000 pqr@rknec.edu 9289501748
+Stu Infosys Female 9.5 CSE 75888 stu@rknec.edu 8291057289
+Vwx Wipro Male 8.7 IT 700000 vwx@rknec.edu 7281057285
+Yz Accenture Female 9.2 EC 720000 yz@rknec.edu 7820147296
+Abcd Accenture Male 8.0 CSE 480000 abcd@rknec.edu 9947207491

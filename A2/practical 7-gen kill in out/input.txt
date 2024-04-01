@@ -1,0 +1,16 @@
+b = 1
+c = 2
+
+a = b + c
+d = a - b
+
+d = c + d
+
+c = b + c
+e = a - b
+
+d = b + c
+e = e + 1
+
+b = c * d
+c = b - d
