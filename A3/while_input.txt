@@ -1,0 +1,4 @@
+while (count < 5) {
+        printf("%d\n", count);
+        count++;  // Increment count by 1 in each iteration
+    }
